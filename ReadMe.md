@@ -13,16 +13,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynep-pp&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zeynep-pp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=zeynep-pp&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=zeynepcoder)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zeynep-pp&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=zeynep-pp&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
