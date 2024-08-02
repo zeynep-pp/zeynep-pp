@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on VueJS, ReactJS, JAVA, C#, Spring Boot, Hibernate.<br><br>👯 I’m looking to collaborate on open source projects related to web development and cloud computing.<br><br>🤝 I’m looking for help with improving my skills in cloud computing and containerization technologies like Docker and Kubernetes.<br><br>🌱 <br><br>💬 If you have any questions about ReactJS or Spring Boot Java, feel free to ask me! I'm always happy to help and share my knowledge.<br><br>⚡ Fun fact: Did you know that the original name for React was "FaxJS"? The creators eventually changed it to React because they didn't want people to confuse it with the outdated technology of fax machines.<br><br>
+
 
 
 ## 🌐 Socials:
